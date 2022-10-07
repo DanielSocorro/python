@@ -9,7 +9,7 @@ press_message()
  """
 
 
-def talk(message):
+""" def talk(message):
     print('Hello')
     print('How you doing')
     print(message)
@@ -23,4 +23,11 @@ elif option == 2:
 elif option == 3:
     talk('You choose the option 3')   
 else:
-    print('Choose a valid option')
+    print('Choose a valid option') """
+
+def sum(a, b):
+    print('it will sum 2 numbers')
+    result = a + b
+    return result
+summary = sum(1,4)
+print(summary)
