@@ -47,3 +47,49 @@ print(5 + 5)
 
 5 + 5 * 2  # logical operations( last sum operations)
 15
+
+
+#name = 'Dan'
+#Dan
+
+#name * 4
+#DanDanDanDan
+
+
+number1 = input('write a number: ')      #number saved as a string
+#write a number: 4
+number1
+'4'
+
+number2 = input('write a number: ')     #number saved as a string
+#write a number: 5
+number2
+'5'
+
+
+number1 + number2  
+'45'
+
+
+number1 = int(number1)              #number saved as integer number
+number1
+4
+
+
+number2 = int(number2)               #number saved as integer number
+number2
+5
+
+number1 + number2                   
+9
+
+
+decimal_num = 4.5
+decimal_num 
+4.5
+
+int(decimal_num)
+4
+
+str(decimal_num)
+'4.5'
