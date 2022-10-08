@@ -16,8 +16,5 @@ def run():
          print('Is not a Palindrom 😟 ')
 
 
-
-
-
 if __name__ == '__main__':
     run()
