@@ -8,19 +8,19 @@ print(5) # to 10000
 
 # 3 ways to do it !!
 
-counter = 1
+counter = 0
 print(counter)
-while counter < 1000:
-    #counter = counter + 1
+while counter < 10:
+    # counter = counter + 1
     counter +=1
     print(counter) 
 
 
-a = list(range(1, 1001))
+a = list(range(1, 11))
 print(a)
 
 
-for counter in range(1, 1001):
+for counter in range(1, 11):
     print(counter) 
 
 
